@@ -25,3 +25,5 @@ Endpoint for create short url:
 ```sh
 http://127.0.0.1:8000/api/short-url/
 ```
+
+<img width="1162" alt="image" src="https://github.com/ismailov0/url-shortener/assets/98686806/89ea4811-1e6e-40d0-8361-c15864fad35e">

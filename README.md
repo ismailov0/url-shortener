@@ -1,4 +1,4 @@
-# Cinema Management
+# URL Shortener
 
 URL Shortener enables users to generate short and unique codes for long URLs, making them more convenient for sharing and accessing.
 
